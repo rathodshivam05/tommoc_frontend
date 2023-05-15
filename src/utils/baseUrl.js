@@ -1,0 +1,1 @@
+export const base_url = "https://embarrassed-toad-fedora.cyclic.app/api/user"
